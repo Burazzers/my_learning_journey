@@ -1,0 +1,2 @@
+# My Learning Journey
+Ovo je moj prvi commit u okviru AI + Flutter plana.
